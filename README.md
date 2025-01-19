@@ -11,7 +11,7 @@ I am a **Data Science** and **Flask Python Developer** with a strong passion for
 - **Python** | **Flask** | **Java**
 - **Machine Learning** | **Data Science** | **Deep Learning**
 - **Pandas** | **NumPy** | **TensorFlow** | **Keras**
-- **SQL** | **MySQL** | **PostgreSQL**
+- **SQL** | **MySQL**
 
 ## 🔧 Projects:
 - **Super-Resolution of Satellite Imagery using Deep Learning**
