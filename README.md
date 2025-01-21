@@ -14,8 +14,8 @@ I am a **Data Science** and **Flask Python Developer** with a strong passion for
 - **SQL** | **MySQL**
 
 ## 🔧 Projects:
-- **Super-Resolution of Satellite Imagery using Deep Learning**
-- **AI-driven Business Analytics Dashboard for SMEs**
+- **AI-Driven Social Media Comment Analysis System**
 - **Pulmonary Fibrosis Severity Prediction using CNN**
+- **Banking System using Java servlet and JSP**
 
 Feel free to explore my repositories and contribute to my projects! Let's connect and innovate together 🌐
